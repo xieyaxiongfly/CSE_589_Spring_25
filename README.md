@@ -11,7 +11,7 @@ seo:
 # Modern Networking Concepts
 {: .fs-9 } 
 
-Spring 2024, University at Buffalo 
+Spring 2025, University at Buffalo 
 {: .fs-6 .fw-300 }
 
 **Instructor:** 
