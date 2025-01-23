@@ -24,22 +24,22 @@ schedule:
     events:
 	  - name: Office Hours
         start: 4:00 PM
-        end:   5:00 PM
+        end: 5:00 PM
         location: 321 Davis Hall
       - name: Lecture
         start: 5:00 PM
-        end:   6:30 PM
+        end: 6:30 PM
         location: Knox 104
   - name: Wednesday
   - name: Thursday
 	events:
 	  - name: Office Hours
         start: 4:00 PM
-        end:   5:00 PM
+        end: 5:00 PM
         location: 321 Davis Hall
       - name: Lecture
         start: 5:00 PM
-        end:   6:30 PM
+        end: 6:30 PM
         location: Knox 104
   - name: Friday
   ---
