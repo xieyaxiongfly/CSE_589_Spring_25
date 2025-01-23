@@ -66,10 +66,10 @@ At the end of this course, each student should be able to:
 
 ## Lecture Time & Location
 
-Tuesday and Thursday, 5:00PM-6:20PM,    Knox 104, North Campus
+Tuesday and Thursday, 5:00PM-6:20PM,    Knox 110, North Campus
 
 ## Important Dates
-Final Exam: 7:15PM-10:15PM, May 9th 2024
+Final Exam: 7:15PM-10:15PM, May 9th 2025
 
 ## Prerequisites
 
