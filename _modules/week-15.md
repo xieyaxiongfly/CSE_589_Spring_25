@@ -7,5 +7,5 @@ Apr 29
 
 May 1
 : **Exam Review**{: .label .label-red }[Final Exam Review](#)
-  : [slides](#)
+  : [Location: Knox 110](#)
 
