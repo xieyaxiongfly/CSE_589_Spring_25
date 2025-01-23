@@ -1,10 +1,9 @@
 ---
-title: Week 7 Mar10 - Mar 16
+title: Week 8 Mar10 - Mar 16
 ---
 Mar 11 
-: **Exam**{: .label .label-red }[Mid-Term Exam](#)
+: **Exam Review**{: .label .label-red }[Mid-Term Exam Review](#)
 
 Mar 13
-: **Lecture**{: .label .label-purple }[Network Layer: Data Plane (part 1)](#)
-  : [slides](#)
+: **Exam**{: .label .label-red }[Mid-Term Exam](#)
 
