@@ -3,10 +3,10 @@ title: Week 2 Jan 27 - Feb 2
 ---
 
 Jan 28
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+: **Lecture**{: .label .label-purple }[Introduction of Computer Networks (part 1)](#)
+  : [Slides](#)
 
 Jan 30
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+: **Lecture**{: .label .label-purple }[Introduction of Computer Networks (part 2)](#)
+  : [slides](#)
 

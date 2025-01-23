@@ -1,12 +1,11 @@
 ---
 title: Week 6 Feb 24 - Mar 2
 ---
+Feb 18
+: **Section**{: .label .label-purple }[Transport Layer (part 2)](#)
+  : [slides](#)
 
-Jan 28
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
-
-Jan 30
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Feb 20
+: **Section**{: .label .label-purple }[Transport Layer (part 3)](#)
+  : [slides](#)
 

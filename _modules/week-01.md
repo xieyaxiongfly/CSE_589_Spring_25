@@ -3,6 +3,6 @@ title: Week 1 Jan 20 - Jan 26
 ---
 
 Jan 23
-: **Section**{: .label .label-purple } [Introduction](#)
+: **Lecture**{: .label .label-purple } [Course Overview](#)
   : [slides](#)
 

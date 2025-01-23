@@ -1,12 +1,11 @@
 ---
 title: Week 4 Feb 10 - Feb 16
 ---
+Feb 11
+: **Section**{: .label .label-purple }[Application Layer (part 2)](#)
+  : [slides](#)
 
-Jan 28
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
-
-Jan 30
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Feb 13
+: **Section**{: .label .label-purple }[Application Layer (part 3)](#)
+  : [slides](#)
 
