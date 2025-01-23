@@ -42,4 +42,4 @@ schedule:
         end: 6:30 PM
         location: Knox 104
   - name: Friday
-  ---
+---
