@@ -30,7 +30,6 @@ schedule:
         start: 5:00 PM
         end:   6:20 PM
         location: Knox 104
-      
   - name: Wednesday
   - name: Thursday
 	events:
@@ -42,6 +41,5 @@ schedule:
         start: 5:00 PM
         end:   6:20 PM
         location: Knox 104
-     
   - name: Friday
   ---
