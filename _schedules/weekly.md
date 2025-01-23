@@ -28,7 +28,7 @@ schedule:
         location: 321 Davis Hall
       - name: Lecture
         start: 5:00 PM
-        end:   6:20 PM
+        end:   6:30 PM
         location: Knox 104
   - name: Wednesday
   - name: Thursday
@@ -39,7 +39,7 @@ schedule:
         location: 321 Davis Hall
       - name: Lecture
         start: 5:00 PM
-        end:   6:20 PM
+        end:   6:30 PM
         location: Knox 104
   - name: Friday
   ---
