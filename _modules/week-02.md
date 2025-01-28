@@ -8,6 +8,6 @@ Jan 28
 
 Jan 30
 : **Lecture**{: .label .label-purple }[Introduction of Networks (part 2)](#)
-  : [slides](#)
+  : [slides](#),  
   : [lab-1](#)
 
