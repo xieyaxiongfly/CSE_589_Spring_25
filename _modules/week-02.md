@@ -8,6 +8,6 @@ Jan 28
 
 Jan 30
 : **Lecture**{: .label .label-purple }[Introduction of Networks (part 2)](#)
-  : [slides](https://xieyaxiongfly.github.io/CSE_589_Spring_25/assets/slides/Chapter_1_s25.pdf),  
+  : [slides](https://xieyaxiongfly.github.io/CSE_589_Spring_25/assets/slides/Chapter_1_s25_1.pdf),  
   : [lab-1](https://xieyaxiongfly.github.io/CSE_589_Spring_25/assets/lab/lab_1.pdf)
 
