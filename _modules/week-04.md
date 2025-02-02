@@ -9,5 +9,5 @@ Feb 13
 : **Lecture**{: .label .label-purple }[Application Layer (part 3)](#)
   : [slides](#)
 
-: **DUe**{: .label .label-red }[Lab1](#)
+: **Due**{: .label .label-red }[Lab1](#)
 

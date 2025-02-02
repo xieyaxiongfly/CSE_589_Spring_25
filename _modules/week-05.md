@@ -8,3 +8,5 @@ Feb 18
 Feb 20
 : **Lecture**{: .label .label-purple }[Transport Layer (part 1)](#)
   : [slides](#)
+: **LAB**{: .label .label-green }[LAB-2](#)
+  : [Lab Guide](https://xieyaxiongfly.github.io/CSE_589_Spring_25/assets/lab/Lab_2.pdf)
