@@ -8,5 +8,5 @@ Feb 4
 
 Feb 6
 : **Lecture**{: .label .label-purple }[Application Layer (part 1)](#)
-  : [slides](#)
+  : [slides](https://xieyaxiongfly.github.io/CSE_589_Spring_25/assets/slides/Chapter_2_s25_1.pdf)
 
