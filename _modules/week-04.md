@@ -2,8 +2,7 @@
 title: Week 4 Feb 10 - Feb 16
 ---
 Feb 11
-: **Lecture**{: .label .label-purple }[Introduction of LAB1](#)
-  : [slides](#)
+: **Lecture**{: .label .label-purple }[Introduction of Programming Assignment  1](#)
 
 
 
