@@ -7,6 +7,7 @@ Mar 25
 : **LAB**{: .label .label-green }[LAB-3](#)
   : [Lab Guide](https://xieyaxiongfly.github.io/CSE_589_Spring_25/assets/lab/Lab_3.pdf)
 : **Due**{: .label .label-red }[Homework 2](#)
+: **Due**{: .label .label-red }[PA 1](#)
 
 Mar 27
 : **Lecture**{: .label .label-purple }[Network Layer: Data Plane (part 1)](#)
