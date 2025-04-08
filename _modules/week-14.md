@@ -8,4 +8,3 @@ Apr 22
 Apr 24
 : **Lecture**{: .label .label-purple }[Link Layer and LANs (part 1)](#)
   : [slides](https://xieyaxiongfly.github.io/CSE_589_Spring_25/assets/slides/Chapter_6_s25_1.pdf)
-: **Due**{: .label .label-red }[Homework 4](#)
