@@ -8,5 +8,5 @@ Apr 29
 
 May 1
 : **Lecture**{: .label .label-purple }[Wireless and Mobile Networks](#)
-  : [Location: Knox 110](#)
+  : [slides](https://xieyaxiongfly.github.io/CSE_589_Spring_25/assets/slides/Chapter_7_s25_1.pdf)
 : **Due**{: .label .label-red }[Homework 4](#)
