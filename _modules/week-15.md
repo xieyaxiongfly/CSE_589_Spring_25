@@ -7,6 +7,6 @@ Apr 29
 : **Due**{: .label .label-red }[Lab4](#)
 
 May 1
-: **Exam Review**{: .label .label-red }[Wireless and Mobile Networks](#)
+: **Lecture**{: .label .label-purple }[Wireless and Mobile Networks](#)
   : [Location: Knox 110](#)
 : **Due**{: .label .label-red }[Homework 4](#)
