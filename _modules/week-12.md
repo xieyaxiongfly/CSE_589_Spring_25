@@ -7,8 +7,8 @@ Apr 8
 : **Due**{: .label .label-red }[Lab3](#)
 
 Apr 10
-: **Lecture**{: .label .label-purple }[Network Layer: Data Plane (part 5)](#)
-  : [slides](https://xieyaxiongfly.github.io/CSE_589_Spring_25/assets/slides/Chapter_4_s25_5.pdf)
+: **Lecture**{: .label .label-purple }[Network Layer: Control Plane (part 1)](#)
+  : [slides](https://xieyaxiongfly.github.io/CSE_589_Spring_25/assets/slides/Chapter_5_s25_1.pdf)
 : **HW**{: .label .label-green }[Homework-4](#)
   : [HW4](https://xieyaxiongfly.github.io/CSE_589_Spring_25/assets/hw/CSE589_sp2025_hw4.pdf)
 : **PA**{: .label .label-green }[PA-2](#)

@@ -2,8 +2,7 @@
 title: Week 16 May 5 - May 11
 ---
 May 6 
-: **Exam Review**{: .label .label-red }[Final Exam Review](#)
-  : [slides](#)
+: **No Class**{: .label .label-red }[No Class](#)
 
 May 9
 : **Exam**{: .label .label-red }[Final Exam](#)
