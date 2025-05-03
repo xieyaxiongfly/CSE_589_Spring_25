@@ -8,5 +8,5 @@ Apr 29
 
 May 1
 : **Exam Review**{: .label .label-red }[Final Exam Review](#)
-  : [slides](#)
+  : [slides](https://xieyaxiongfly.github.io/CSE_589_Spring_25/assets/slides/final-exam_overview.pdf)
 : **Due**{: .label .label-red }[Homework 4](#)
